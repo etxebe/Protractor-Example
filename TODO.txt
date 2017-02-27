@@ -1,0 +1,1 @@
+bazowa strona basepage i metody typu getTextFromElement, getAttributeFromElement
